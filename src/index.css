@@ -1,0 +1,88 @@
+
+/* ANTONIO FONT */
+
+@font-face {
+  font-family: antonio;
+  src: url('./assets/fonts/Antonio-Light.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: antonio;
+  src: url('./assets/fonts/Antonio-Regular.ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: antonio;
+  src: url('./assets/fonts/Antonio-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: antonio;
+  src: url('./assets/fonts/Antonio-SemiBold.ttf');
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: antonio;
+  src: url('./assets/fonts/Antonio-Bold.ttf');
+  font-weight: 700;
+}
+
+
+/* SPARTAN FONT */
+
+
+
+@font-face {
+  font-family: spartan;
+  src: url('./assets/fonts/Spartan-Light.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: spartan;
+  src: url('./assets/fonts/Spartan-Regular.ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: spartan;
+  src: url('./assets/fonts/Spartan-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: spartan;
+  src: url('./assets/fonts/Spartan-SemiBold.ttf');
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: spartan;
+  src: url('./assets/fonts/Spartan-Bold.ttf');
+  font-weight: 700;
+}
+
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  background: #070724;
+  background-image: url('./assets/background/dots.png');
+}
+
+
+
+
+

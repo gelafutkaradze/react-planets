@@ -1,0 +1,16 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    height: 85px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 22px 32px;
+    color: #fff;
+    font-family: antonio;
+}
+
+
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+}
